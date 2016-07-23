@@ -2,7 +2,7 @@
 WCF Callback Sample written in C#
 
 ## Description
-This is a demo/project to show you how works a WCF callback App.
+This is a demo/project to show you how a WCF callback App works.
 
 In some scenarios is useful call a WCF service and get a response from it, for example:
 - To know if the service is alive.
